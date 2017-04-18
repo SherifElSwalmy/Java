@@ -11,10 +11,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author mohammed
- */
 public class Student_Form extends javax.swing.JFrame {
 
     /**
